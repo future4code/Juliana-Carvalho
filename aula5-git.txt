@@ -1,0 +1,1 @@
+Eu utilizei os comandos branch, commit, checkout, merge e um novo rebase
