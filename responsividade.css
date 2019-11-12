@@ -1,0 +1,61 @@
+div {
+    border: 2px solid #313B3E;
+    border: 10px;
+}
+
+.container {
+    max-width: 800px;
+    max-height: 800px;
+    display:flex;
+    font-size: 10px;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    padding: 50px;
+    }
+
+.item {
+ 
+}
+
+#item1 {
+background-color:blue;
+width: 100px;
+height:30px;
+text-align:center;
+font-size: 10px;
+}
+
+#item2 { 
+background-color: yellow;
+
+}
+
+#item3 {
+background-color: green    
+    
+}
+#item4 {
+background-color: blue;
+}
+#item5 {
+background-color:yellow;
+}
+#item6 {
+background-color:green;
+}
+#item7 {
+background-color:black;
+}
+#item8 {
+background-color: black;
+}
+#item9 {
+background-color: white;
+    }
+#item10 {
+background-color: white;
+        }
+#item11 {
+background-color: white;
+            }           
