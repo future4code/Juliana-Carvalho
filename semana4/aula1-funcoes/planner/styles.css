@@ -7,16 +7,16 @@ color: tomato;
 
 
 table {
-    background-color: chartreuse;
+    background-color: rgb(171, 236, 105);
     display: flex;
-    
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blueviolet;
+    color: rgb(106, 13, 194);
 }
 
-tr{
+td {
 justify-content: space-between;
+align-items:flex-end;
 border: 10px;
-border-color: violet;
+border-color: rgb(117, 9, 117);
 
 }
