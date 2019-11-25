@@ -1,0 +1,26 @@
+header {
+    background-color: tomato;
+    font-size: medium;
+    color: white;
+    text-align: left;
+}
+table {
+    display: grid;
+    grid-column-start: 5;
+    border-radius: 10px;
+    text-align: center;
+
+}
+audio{
+    
+    white-space: 200px;
+    height: 200px;
+}
+
+footer{
+    background-color: rgb(33, 207, 71);
+    font-size: larger;
+    color: blanchedalmond;
+    text-align: center;
+}
+
