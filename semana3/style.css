@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    background-color: tomato;
+    font-size: medium;
+    color: white;
+}
+section {
+    display: grid;
+    grid-column-start: 2;
+
+}
+audio{
+    
+    white-space: 200px;
+    height: 200px;
+}
+
